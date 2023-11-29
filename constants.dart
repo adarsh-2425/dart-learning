@@ -6,4 +6,6 @@ main() {
   print(aConstNum);
   print(aConstBool);
   print(aConstString);
+
+  print(aConstNum.runtimeType);
 }
